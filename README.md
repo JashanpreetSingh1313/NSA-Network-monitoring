@@ -242,7 +242,7 @@ snmpwalk -v2c -c yourCommunityString 192.168.1.10
 
 - Locking down firewall access
 
-## 🙌 Closing Remarks
+## Closing Remarks
 
 This project helped us explore the differences between an open-source network monitoring solution (LibreNMS) and a commercial enterprise-grade tool (SolarWinds). Through hands-on setup and configuration, we learned the importance of visibility, alerting, and centralized monitoring in managing modern IT environments. LibreNMS provided valuable experience with Linux-based services, SNMP configuration, and web server integration, making it an ideal solution for labs and small setups. While SolarWinds offers powerful features and a refined interface, LibreNMS proves that open-source tools can be just as capable when configured properly.
 
