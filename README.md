@@ -1,7 +1,7 @@
 # NSA-Network-monitoring
 “LibreNMS vs SolarWinds”
 
-###LibreNMS:
+### LibreNMS:
 
 - Open-source, free to use
 
@@ -15,7 +15,7 @@
 
 - Best for labs, students, and small businesses
 
-###SolarWinds:
+### SolarWinds:
 
 - Commercial tool (not free)
 
