@@ -203,6 +203,9 @@ http://<your-server-ip>:8080/install
 ```
 Then login to LibreNMS using the credentials.
 
+After that, create an admin account.
+
+
 ## 🖥️ How to Add Devices in LibreNMS
 
 Once you’re logged into the dashboard:
