@@ -206,7 +206,7 @@ Then login to LibreNMS using the credentials.
 After that, create an admin account.
 
 
-## 🖥️ How to Add Devices in LibreNMS
+### How to Add Devices in LibreNMS
 
 Once you’re logged into the dashboard:
 
